@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Club
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Club\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Club()
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ Club\r\n
+comment2.params=
+comment2.target=int\ numeroMiembros()
+comment2.text=\r\n\ @return\ El\ n\u00FAmero\ de\ miembros\ del\ club\r\n
+numComments=3
